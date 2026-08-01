@@ -1,4 +1,4 @@
-# Pocket Air Lab LITE ポケット
+# 🔬 Pocket Air Lab LITE ポケット
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/ESP32--C3-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32-C3">
