@@ -13,7 +13,7 @@ A compact, battery-powered pocket air quality monitor built around the ESP32-C3 
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repo Structure
 
 ```text
 pocket-air-lab-lite/
