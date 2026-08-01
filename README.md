@@ -18,6 +18,7 @@ A compact, battery-powered pocket air quality monitor built around the ESP32-C3 
 ```text
 pocket-air-lab-lite/
 │
+├── images/           <- images for readme
 ├── firmware/         <- ESP32 source code
 ├── hardware/         <- PDF schematics, and PCB renders
 ├── gerbers/          <- gerber files for PCBWay 
