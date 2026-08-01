@@ -31,7 +31,7 @@ Sponsored by **[PCBWay](https://www.pcbway.com)**, who support us in manufacturi
 
 <div align="center">
   <a href="https://www.pcbway.com" target="_blank">
-    <img src="https://www.pcbway.com/images/logo.png" alt="PCBWay Logo" width="250"/>
+    <img src="images/pcbway.png" alt="PCBWay Logo" width="250"/>
   </a>
 </div>
 
