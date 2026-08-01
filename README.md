@@ -29,8 +29,8 @@ pocket-air-lab-lite/
 ## 🤝 Sponsorship
 Sponsored by **[PCBWay](https://www.pcbway.com)**, who support us in manufacturing our custom PCBs.
 
-<div align="center">
-  <a href="https://www.pcbway.com" target="_blank">
+<div align="left">
+  <a href="https://www.pcbway.com/" target="_blank">
     <img src="images/pcbway.png" alt="PCBWay Logo" width="250"/>
   </a>
 </div>
