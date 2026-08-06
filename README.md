@@ -32,7 +32,12 @@ pocket-air-lab-lite/
 ├── gerbers/          <- gerber files for PCBWay 
 └── README.md         <- project description
 ```
-
+---
+## Schematics
+<div align="left">
+    <img src="hardware/esp32c3_oled_baseboard_schematic.png" alt="schem1" width="500" height="500"/>
+  </a>
+</div>
 ---
 
 ## 🤝 Sponsorship
