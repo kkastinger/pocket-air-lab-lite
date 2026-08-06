@@ -35,11 +35,20 @@ pocket-air-lab-lite/
 
 ---
 
-## Schematics
-<div align="left">
-    <img src="hardware/esp32c3_oled_baseboard_schematic.png" alt="schem1"/>
-  </a>
-</div>
+## 🛠️ Hardware & Schematics
+
+### 1. Carrier Board Version - *we are using*
+This is the main and recommended schematic for this project. It is designed as a baseboard (carrier board) where you simply plug in a pre-built, miniature **ESP32-C3 development board featuring a built-in 0.42" OLED display**. 
+
+![Carrier Board Schematic](hardware/pocket_air_lab_lite_carrier_board.png)
+
+---
+
+### 2. "Barebone" Version (WROOM-02 Module)
+This schematic is based on the bare **ESP32-C3-WROOM-02** microcontroller module.
+* **⚠️ Important:** This schematic only shows the basic sensor wiring. For the circuit to work on a custom PCB, you must manually route 5V power to the UART pins, and add a USB-C receptacle, a voltage regulator (3.3V LDO), boot circuitry (resistors/capacitors on the EN pin), and a connector for an external OLED screen.
+
+![Barebone Schematic](hardware/schematic_barebone_module.png)
 
 ---
 
